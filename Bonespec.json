@@ -1,0 +1,21 @@
+{
+    "destinationBaseFolder" : "Sources",
+    "bones" : [{
+        "placeholder" : "Bone",
+        "createSubfolder" : true,
+        "folderPath" : "App\/ViewControllers",
+        "pluginData": {
+            "targetNames" : [
+                "App"
+            ]
+        },
+        "description" : "Creates a simple `ViewController` and related xib file",
+        "files" : [
+            "ItemViewController\/BoneItemViewController.swift",
+            "ItemViewController\/BoneItemViewController.xib"
+        ],
+        "name" : "Controller"
+    }],
+    "name" : "Bones",
+    "sourcesBaseFolder" : ""
+}
