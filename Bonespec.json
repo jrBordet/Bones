@@ -17,5 +17,5 @@
         "name" : "Controller"
     }],
     "name" : "Bones",
-    "sourcesBaseFolder" : ""
+    "sourcesBaseFolder" : "Sources/Bones"
 }
